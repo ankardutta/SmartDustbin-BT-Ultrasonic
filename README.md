@@ -1,4 +1,4 @@
-# Coordinated batch 23-26 Batch CST | MINOR PROJECT
+# Coordinated batch 22-25 Batch CST | MINOR PROJECT
 # SmartDustbin-BT-Ultrasonic
 
 🗑️ Smart Dustbin – Bluetooth & Ultrasonic Sensor Enabled  
